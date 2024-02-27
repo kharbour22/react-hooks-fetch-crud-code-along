@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "id": 1,
+      "name": "Yogurt",
+      "category" : "Dairy",
+      "isInCart": false
+    },
+
+    {
       "id": 5,
       "name": "Swiss Cheese",
       "category": "Dairy",

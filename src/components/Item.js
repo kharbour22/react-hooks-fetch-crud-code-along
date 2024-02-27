@@ -20,7 +20,7 @@ function handleDeleteClick() {
     method: "DELETE",
   })
     .then((r) => r.json())
-    .then(() => onDeleteItem("deleted!"));
+    .then(() => onDeleteItem(item));
 }
 
     return (
